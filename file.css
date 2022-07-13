@@ -1,0 +1,218 @@
+.logo-docplanner {
+  width: 268px;
+  height: 33px;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  font-size: 17px;
+  width: 15%;
+}
+header {
+  background-color: white;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  top: 0;
+  left: 0;
+}
+.first-div {
+  margin-top: 100px;
+  text-align: center;
+}
+.t {
+  color: #00b39b;
+  font-weight: normal;
+  font-family: Arial;
+}
+.second-div {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+  width: 900px;
+  margin: auto;
+}
+.paraghraph {
+  width: 400px;
+  text-align: left;
+}
+.image1 {
+  width: 20px;
+}
+.green {
+  background-color: #00b39b;
+}
+.blue {
+  background-color: #3d83df;
+}
+.black {
+  background-color: #1b2734;
+}
+.colors {
+  display: flex;
+  margin-left: 300px;
+}
+.main {
+  color: #fff;
+  width: 300px;
+  height: 330px;
+  margin-left: 20px;
+  border-radius: 10px;
+  text-align: left;
+}
+
+  
+
+h2 {
+  margin-bottom: 80px;
+}
+.we-are {
+  width: 300;
+  color: #00b39b;
+  font-weight: 100;
+}
+
+svg {
+  fill: gray;
+  margin-left: 20px;
+}
+.everything {
+  width: 980px;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  padding-left: 130px;
+}
+.copy {
+  margin-left: 10px;
+}
+.logos {
+  margin-left: 200px;
+}
+select {
+  border: none;
+  border-radius: 5px;
+  color: white;
+  text-decoration: underline;
+}
+.uno {
+  background-color: #00b39b;
+}
+.dos {
+  background-color: #3d83df;
+}
+.tres {
+  background-color: #1b2734;
+}
+.ff {
+  color: #00b39b;
+}
+.vert-align {
+  border-radius: 5px;
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.background {
+  display: flex;
+  background-color: #e5faf8;
+  
+}
+.first_two {
+  display: flex;
+}
+.second_two {
+  display: flex;
+}
+.squares {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-left: 100px;
+  padding-top:30px;
+}
+.haha{
+  color: #4a4848;
+}
+.klem{
+  margin-left:300px;
+}
+.new_pic{
+  margin-top: 60px;
+}
+.leader{
+  margin-top: 50px;
+}
+.string{
+  text-align: center;
+}
+.tsawer{
+  text-align: center;
+  display: flex;
+  margin-top: 30px;
+}
+
+
+.taswira{
+  border-radius: 10px;
+  width:311.3px;
+  height:360px;
+  margin-left: 100px;
+  background-color: white;
+}
+.taswira:hover{
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+.whatever{
+  display:flex;
+  justify-content: space-around;
+}
+.border{
+  border-radius: 10px;
+}
+.hoho{ 
+  margin-top: 15px;
+  background-color:  #3d83df;
+  border:none;
+  border-radius: 5px;
+  height: 30px;
+  color:white;
+  font-family:Arial;
+}
+.hihi{ 
+  
+  background-color:  #3d83df;
+  border:none;
+  border-radius: 5px;
+  height: 50px;
+  color:white;
+  font-family:Arial;
+  margin-bottom: 100px;
+ 
+}
+.lolol{
+  text-align: center; }
+
+.lastt{
+  margin-top: 30px;
+  color:#333;
+  font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+.finally{
+  color: #ababab;
+  text-align: center;
+}
+button:hover{
+  cursor: pointer;
+}
+select:hover{
+  cursor:pointer;
+}
